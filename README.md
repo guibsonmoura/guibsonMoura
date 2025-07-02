@@ -5,7 +5,7 @@
 </p>
 <div> 
  
-  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
+  ![Snake animation](https://github.com/guibsonmoura/guibsonmoura/blob/main/github-user-contribution.svg) 
   
   ![Github](https://img.shields.io/github/followers/guibsonmoura?label=Follow&style=social)
   
