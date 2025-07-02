@@ -69,4 +69,4 @@
 - 🌐 Portfólio (em breve)
 
 
-> “A melhor arquitetura é aquela que permite evoluir com clareza.” – **Guibson Moura**😂
+> “A melhor arquitetura é aquela que permite evoluir com clareza.” – **Guibson Moura**
