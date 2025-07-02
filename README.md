@@ -1,8 +1,11 @@
-<h1 align="center">👋 Olá, eu sou Guibson Moura</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&width=435&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Flutter+e+Clean+Architecture+🧼;Entusiasta+em+APIs+e+Banco+de+Dados+%F0%9F%93%81;Criador+de+interfaces+inteligentes+e+eficientes+💡" />
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="code animation" width="300"/>
 </p>
+
+<h1 align="center">👋 Olá, eu sou Guibson Moura</h1>  <div align="center">
+  <img src="https://img.shields.io/github/followers/guibsonmoura?label=Follow&style=social" />
+</div>
+
 
 ---
 
@@ -65,16 +68,5 @@
 - 💼 LinkedIn: [linkedin.com/in/guibsonmoura](https://linkedin.com/in/guibsonmoura)  
 - 🌐 Portfólio (em breve)
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="code animation" width="300"/>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/guibsonmoura?label=Follow&style=social" />
-</div>
-
----
 
 > “A melhor arquitetura é aquela que permite evoluir com clareza.” – **Guibson Moura**😂
